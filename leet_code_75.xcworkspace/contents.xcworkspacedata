@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:gcd_of_strings.playground">
+   </FileRef>
+   <FileRef
       location = "group:merge_string.playground">
    </FileRef>
 </Workspace>
