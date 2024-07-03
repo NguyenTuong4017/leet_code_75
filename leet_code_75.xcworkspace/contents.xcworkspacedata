@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:reverse_words.playground">
+   </FileRef>
+   <FileRef
+      location = "group:reverse_vowels.playground">
+   </FileRef>
+   <FileRef
+      location = "group:can_place_flowers.playground">
+   </FileRef>
+   <FileRef
+      location = "group:kids_with_the_greatest.playground">
+   </FileRef>
+   <FileRef
       location = "group:gcd_of_strings.playground">
    </FileRef>
    <FileRef
