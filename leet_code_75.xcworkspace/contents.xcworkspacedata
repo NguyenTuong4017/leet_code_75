@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:product_except_self.playground">
+   </FileRef>
+   <FileRef
       location = "group:reverse_words.playground">
    </FileRef>
    <FileRef
