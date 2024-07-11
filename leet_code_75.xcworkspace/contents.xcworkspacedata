@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:compress.playground">
+   </FileRef>
+   <FileRef
+      location = "group:increasingTriplet.playground">
+   </FileRef>
+   <FileRef
       location = "group:product_except_self.playground">
    </FileRef>
    <FileRef
