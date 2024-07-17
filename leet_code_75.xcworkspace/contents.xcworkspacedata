@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:max_area.playground">
+   </FileRef>
+   <FileRef
+      location = "group:is_subsequence.playground">
+   </FileRef>
+   <FileRef
       location = "group:move_zeroes.playground">
    </FileRef>
    <FileRef
