@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:longestOnes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:maxVowels.playground">
+   </FileRef>
+   <FileRef
+      location = "group:findMaxAverage.playground">
+   </FileRef>
+   <FileRef
+      location = "group:max_operation.playground">
+   </FileRef>
+   <FileRef
       location = "group:max_area.playground">
    </FileRef>
    <FileRef
